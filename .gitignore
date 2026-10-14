@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.so
+native_tests
+native_tests_sanitized
+*.bin
+*.bin.json
+*.safetensors
+*.pt
+*.pth
+checkpoints/
+artifacts/
+data/

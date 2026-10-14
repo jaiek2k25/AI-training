@@ -1,0 +1,7 @@
+# Optional CLOUD training environment. Not needed for the laptop runtime.
+# Install a CUDA/CPU-appropriate torch wheel for your hardware first if desired.
+torch>=2.6,<2.7
+transformers>=4.48,<4.49
+safetensors>=0.5,<1
+numpy>=1.26,<3
+pytest>=8,<10
